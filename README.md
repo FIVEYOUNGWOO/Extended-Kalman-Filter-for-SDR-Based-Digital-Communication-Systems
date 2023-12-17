@@ -1,4 +1,4 @@
-## Kalman-Filter-for-SDR-Based-Digital-Communication-Systems
+## Extended-Kalman-Filter-for-SDR-Based-Digital-Communication-Systems
 
 In the realm of signal processing for software-defined radio (SDR) systems, the Kalman filter emerges as a pivotal tool, particularly renowned for its efficacy in mitigating outlier effects that frequently occur at the transmitting and receiving ends of SDR-based communications. While the standard Kalman filter excels in handling linear system models with Gaussian noise, its implementation within the LabVIEW and LabVIEW NXG environments is traditionally limited to its simplest form, which primarily addresses scenarios with linear dynamics and measurement models.
 
